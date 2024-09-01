@@ -1,7 +1,7 @@
 #include <iostream>
 #include <unistd.h>
 
-#include "../CycleCounter.h"
+#include "CycleCounter.h"
 
 void useCounterObject(void) {
     // Usage Method 1
